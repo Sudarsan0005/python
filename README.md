@@ -1,5 +1,7 @@
 # python
----Contents---
+---
+## **Contents**
+---
 ## 🟢 **Level 1: Basic Python**
 
 ### 1. Introduction to Python
